@@ -1,3 +1,6 @@
+### This bot is no longer supported. If you wish to update the boss schedules as they have probably changed in Black Desert Online since the last update of this Bot
+
+
 # DiscordBDOBossTimer
 
 A simple discord bot that sends a message to the channel when a boss is about to spawn.
